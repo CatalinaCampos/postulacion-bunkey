@@ -1,0 +1,9 @@
+.subtitle {
+  margin: 1.3em 0 0.8em 0;
+  border-left: 3px solid #2e97cf;
+  color: #707070;
+  font-size: 18px;
+  height: 35px;
+  display: flex;
+  align-items: center;
+}

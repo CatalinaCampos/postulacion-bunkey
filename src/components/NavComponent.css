@@ -1,0 +1,48 @@
+.navbar-bunkey {
+  display: flex;
+  justify-content: space-around;
+}
+
+.icons > svg {
+  margin: 0.8em;
+  width: 1.2em;
+  height: 1.2em;
+}
+
+.profile-div {
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  width: 15em;
+  border-radius: 5px;
+}
+
+.square {
+  width: 30px;
+  height: 30px;
+  border-radius: 20%;
+  background-color: #dc4348;
+}
+
+.circle {
+  background-color: #4d448e;
+  width: 27px;
+  border-radius: 50%;
+  height: 27px;
+}
+
+.dropdown {
+  display: flex;
+  align-items: center;
+}
+
+/* .navbar-right {
+  width: 50vh;
+  display: flex;
+  justify-content: flex-end;
+} */
+
+.row {
+  margin: 0;
+}

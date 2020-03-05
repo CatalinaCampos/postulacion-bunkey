@@ -1,0 +1,14 @@
+.category {
+  width: 210px;
+  height: 160px;
+  color: white;
+  font-size: 20px;
+  padding: 16px;
+  margin: 5px;
+  display: flex;
+  align-items: center;
+}
+
+.images {
+  width: 250px;
+}
