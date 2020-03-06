@@ -13,11 +13,6 @@ import { FaRegCheckCircle } from "react-icons/fa";
 import "./NavComponent.css";
 
 class NavComponent extends Component {
-  constructor() {
-    super();
-    this.state = {};
-  }
-
   render() {
     return (
       <Navbar bg="primary" expand="sm" className="navbar-bunkey">
